@@ -1,2 +1,2 @@
-# Patrones_de_dise-o
+# Patrones_de_diseño_software
 Patrones de diseño de software
